@@ -40,7 +40,7 @@ public class Koaxymod {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::doClientStuff);
 
         // Register ourselves for server and other game events we are interested in
-        RegistryHandler.init();
+        RegistryHandler.init(); // Our way of "Initilising" our mods, and items.
         MinecraftForge.EVENT_BUS.register(this);
     }
 
