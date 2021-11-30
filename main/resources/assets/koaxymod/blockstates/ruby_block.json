@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "koaxymod:block/ruby_block" }
+  }
+}
