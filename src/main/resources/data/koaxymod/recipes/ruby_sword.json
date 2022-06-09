@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x",
+    "x",
+    "i"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "koaxymod:ruby"
+    },
+    "i":
+    {
+      "item" : "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "koaxymod:ruby_sword",
+    "count": 1
+  }
+}

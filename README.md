@@ -17,3 +17,6 @@ Hey! so so far the items in this mod consist of
 a ruby sword, a ruby block, a edable muffin, a edable crayon, and some other stuff honestly i have forgotten, but it works fantastic.
 
 ```
+
+
+Edit: This is The FULL source it should compile fine inside of intellij
